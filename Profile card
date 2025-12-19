@@ -136,7 +136,7 @@
         </tr>
     </table>
 
-    <a href="#">View Portfolio</a>
+    <a href="#">Portfolio</a>
 
     <form>
         <input type="text" placeholder="Your Name">
